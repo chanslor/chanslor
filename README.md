@@ -10,7 +10,7 @@
 - 🏗️ **DevOps Engineer** - Docker, Kubernetes, Terraform, Jenkins
 - 🤖 **IOT Developer** - ESP32, Arduino, sensor integration
 - 📊 **Data Collection** - Environmental monitoring and telemetry
-- 🚣 **Whitewater Kayaker** - Why I need those water level sensors!
+- 🚣 **Whitewater Kayaker** - Why I need those water level sensors! | [YouTube Channel](https://www.youtube.com/@MichaelChanslor)
 
 ## 💡 Open to Collaboration
 Looking to team up on IOT projects, environmental monitoring systems, or anything that combines hardware with clever software. Let's build something cool!
