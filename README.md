@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mike Chanslor!
+# 👋 Hey there, I'm Michael Chanslor!
 
 ## 🔬 Currently Tinkering With
 🌊 **IOT Water Level Monitoring** | Combining hardware and software to solve real-world problems
