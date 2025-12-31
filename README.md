@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Michael Chanslor!
 
 ## 🔬 Currently Tinkering With
-🚗 **[TPM Scanner](https://github.com/chanslor/tpm-scanner)** | Catching tire pressure signals from the airwaves and watching them stack up on a scatter plot!
-🌊 **IOT Water Level Monitoring** | Combining hardware and software to solve real-world problems
-🔌 **ESP32 & Arduino** | Building sensor networks and embedded systems
-📡 **Water Level Sensors** | Because monitoring river levels isn't just a hobby, it's a passion!
+🚗 **[TPM Scanner](https://github.com/chanslor/tpm-scanner)** - Catching tire pressure signals from the airwaves and watching them stack up on a scatter plot!
+🌊 **IOT Water Level Monitoring** - Combining hardware and software to solve real-world problems
+🔌 **ESP32 & Arduino** - Building sensor networks and embedded systems
+📡 **Water Level Sensors** - Because monitoring river levels isn't just a hobby, it's a passion!
 
 ## 🛠️ What I Do
 - 🐧 **Linux Enthusiast** - Red Hat ecosystem specialist
